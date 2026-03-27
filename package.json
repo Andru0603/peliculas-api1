@@ -1,0 +1,19 @@
+{
+  "name": "peliculas-api",
+  "version": "1.0.0",
+  "description": "API REST de Películas y Series",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.x.x",
+    "express": "^4.x.x",
+    "mongoose": "^8.x.x",
+    "morgan": "^1.x.x"
+  }
+}
